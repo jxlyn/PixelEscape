@@ -3,7 +3,7 @@ package pixelEscape;
 import javax.swing.*;
 
 /**
- * This is the driver class contain main method
+ * This is the Laucher
  *
  */
 public class Laucher {
